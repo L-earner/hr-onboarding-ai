@@ -155,26 +155,6 @@ The project uses Tailwind CSS with custom CSS variables defined in:
 
 Modify `tailwind.config.ts` to customize the design system.
 
-## Deployment
-
-### Deploy to Vercel
-
-```bash
-npm install -g vercel
-vercel
-```
-
-### Deploy to Netlify
-
-```bash
-npm install -g netlify-cli
-netlify deploy
-```
-
-### Deploy to Replit
-
-This project is pre-configured for Replit deployment. Simply import the repository and run it.
-
 ## Environment Variables for Production
 
 Make sure to set all environment variables in your hosting platform:
